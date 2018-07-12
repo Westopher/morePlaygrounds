@@ -1,5 +1,4 @@
-//: Playground - noun: a place where people can play
+// Enums
 
-import UIKit
 
-var str = "Hello, playground"
+
